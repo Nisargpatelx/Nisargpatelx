@@ -26,7 +26,7 @@ Credential ID: CSCO15102597
 
 [View Certificate](certificates/Cisco%20Certified%20Network%20Associate%20certificate.pdf)
 
----
+
 
 ### CompTIA Security+
 
@@ -49,7 +49,7 @@ MITRE ATT&CK Mapping
 IOC Analysis  
 SOC Playbooks
 
----
+
 
 ## Log & Endpoint Analysis
 Windows Event Logs  
@@ -58,7 +58,7 @@ Sysmon Monitoring
 Linux Authentication Logs  
 PowerShell Activity Monitoring
 
----
+
 
 ## Network Security & Traffic Analysis
 TCP/IP  
@@ -69,7 +69,7 @@ Firewall Log Analysis
 Network Hardening  
 Access Control Lists (ACL)
 
----
+
 
 ## Vulnerability Management
 Nmap Scanning  
@@ -77,7 +77,7 @@ Vulnerability Assessment
 Risk Prioritization  
 Remediation Tracking
 
----
+
 
 ## Security & Forensics Tools
 Splunk Enterprise  
@@ -89,7 +89,7 @@ Registry Explorer
 OpenSSL  
 Windows Event Viewer
 
----
+
 
 ## Cloud & Systems Security
 AWS (EC2, S3, IAM Fundamentals)  
@@ -97,7 +97,7 @@ Linux (Ubuntu)
 Windows Administration  
 VMware Virtualization
 
----
+
 
 ## Programming & Automation
 Python (Log Parsing & Security Scripting)  
@@ -121,7 +121,7 @@ Key Features:
 • Simulated authentication failures to validate monitoring  
 • Practiced SOC-style alert analysis and log correlation
 
----
+
 
 ## Cybersecurity Forensic Analysis – Capstone Project
 
@@ -143,7 +143,7 @@ Activities:
 • Verified evidence integrity using **MD5/SHA1 hashing**  
 • Documented findings and mitigation strategies
 
----
+
 
 ## Malware Analysis & Reverse Engineering Lab
 
