@@ -16,12 +16,17 @@ GPA: 4.00 | Expected Graduation: May 2026
 
 ---
 
-# 📜 Certifications
+## Certifications
 
-• Cisco Certified Network Associate (CCNA)  
-• CompTIA Security+ (SY0-701)
+### Cisco Certified Network Associate (CCNA)
+
+![CCNA Certificate](certificates/ccna.png)
 
 ---
+
+### CompTIA Security+
+
+![Security+ Certificate](certificates/securityplus.png)
 
 # 🛠 Technical Skills
 
