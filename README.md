@@ -16,18 +16,21 @@ GPA: 4.00 | Expected Graduation: May 2026
 
 ---
 
-## 📜 Certifications
-
 ### Cisco Certified Network Associate (CCNA)
 
 Issued: February 2026  
 Credential ID: CSCO15102597  
 
 [View Certificate](certificates/Cisco%20Certified%20Network%20Associate%20certificate.pdf)
-### Security+
 
-![Security+](certificates/securityplus.png)
+---
 
+### CompTIA Security+
+
+Issued: February 2026  
+Credential ID: COMP001022992755  
+
+[View Certificate](certificates/CompTIA%20Security+%20ce%20certificate.pdf)
 # 🛠 Technical Skills
 
 ## Security Operations & Detection
