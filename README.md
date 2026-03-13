@@ -1,10 +1,10 @@
 # Hi, I'm Nisarg Patel 👋
 
-🔐 Cybersecurity Graduate Student | SOC Analyst | SIEM & Threat Detection
+🔐 Cybersecurity Graduate Student | SOC | SIEM | Threat Detection
 
-I am a cybersecurity graduate student at the **University of North Carolina at Charlotte**, currently pursuing a **Master of Science in Cybersecurity (GPA: 4.0, graduating May 2026)**. I specialize in **Security Operations, SIEM monitoring, threat detection, and incident investigation**.
+I am currently pursuing a **Master of Science in Cybersecurity at the University of North Carolina at Charlotte** with a **GPA of 4.00 (Expected Graduation: May 2026)**.
 
-I have professional experience working in **Security Operations Centers (SOC)** where I analyze security alerts, investigate authentication anomalies, and correlate logs from multiple sources to identify potential security incidents.
+My primary interests include **Security Operations, SIEM monitoring, threat detection, incident investigation, and digital forensics**. I actively build hands-on cybersecurity labs to strengthen my skills in **log analysis, attack detection, and security monitoring**.
 
 ---
 
@@ -12,11 +12,12 @@ I have professional experience working in **Security Operations Centers (SOC)** 
 
 **University of North Carolina at Charlotte**  
 Master of Science in Cybersecurity  
-GPA: 4.00 | Expected Graduation: May 2026
+GPA: 4.00  
+Expected Graduation: May 2026
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 ### Cisco Certified Network Associate (CCNA)
 
@@ -34,81 +35,75 @@ Credential ID: COMP001022992755
 
 [View Certificate](certificates/CompTIA%20Security+%20ce%20certificate.pdf)
 
+---
 
 # 🛠 Technical Skills
 
 ## Security Operations & Detection
-SIEM Monitoring (Splunk) • Alert Triage • Incident Response • Threat Detection  
-Log Correlation • Detection Rule Tuning • IOC Analysis • SOC Playbooks  
-MITRE ATT&CK Mapping
+SIEM Monitoring (Splunk)  
+Alert Triage  
+Incident Response  
+Threat Detection  
+Detection Rule Tuning  
+MITRE ATT&CK Mapping  
+IOC Analysis  
+SOC Playbooks
+
+---
 
 ## Log & Endpoint Analysis
-Windows Event Logs • Event ID 4625 Analysis • Sysmon  
-Linux Authentication Logs • PowerShell Activity Monitoring  
-Authentication Abuse Detection
+Windows Event Logs  
+Event ID 4625 Authentication Analysis  
+Sysmon Monitoring  
+Linux Authentication Logs  
+PowerShell Activity Monitoring
+
+---
 
 ## Network Security & Traffic Analysis
-TCP/IP • DNS • HTTP/S  
+TCP/IP  
+DNS  
+HTTP/S  
 Packet Analysis (Wireshark)  
-Firewall Log Analysis • Network Hardening • ACLs
+Firewall Log Analysis  
+Network Hardening  
+Access Control Lists (ACL)
+
+---
 
 ## Vulnerability Management
-Nmap Scanning • Vulnerability Assessment  
-Risk Prioritization • Remediation Tracking
+Nmap Scanning  
+Vulnerability Assessment  
+Risk Prioritization  
+Remediation Tracking
+
+---
 
 ## Security & Forensics Tools
-Splunk Enterprise • Wireshark • Nmap  
-FTK Imager • Autopsy • Registry Explorer  
-OpenSSL • Windows Event Viewer
+Splunk Enterprise  
+Wireshark  
+Nmap  
+FTK Imager  
+Autopsy  
+Registry Explorer  
+OpenSSL  
+Windows Event Viewer
+
+---
 
 ## Cloud & Systems Security
-AWS (EC2, S3, IAM fundamentals)  
-Linux (Ubuntu) • Windows Administration • VMware
+AWS (EC2, S3, IAM Fundamentals)  
+Linux (Ubuntu)  
+Windows Administration  
+VMware Virtualization
+
+---
 
 ## Programming & Automation
-Python (log parsing & scripting)  
-PowerShell • SQL • Basic Java
-
----
-
-# 💼 Professional Experience
-
-### Security Analyst  
-**Cloud Axiom Inc** | Jan 2026 – Present
-
-• Monitor and analyze security alerts in **Splunk SIEM**  
-• Investigate suspicious authentication activity including **Event ID 4625 login failures**  
-• Correlate **Windows event logs, endpoint alerts, and network logs**  
-• Document **Indicators of Compromise (IOCs)** and remediation recommendations  
-• Map suspicious activity to **MITRE ATT&CK techniques**
-
----
-
-### Graduate Teaching Assistant  
-**UNC Charlotte – College of Computing and Informatics** | Jan 2025 – Present
-
-• Assist students with **digital forensic investigations**  
-• Support forensic acquisition and analysis using **FTK Imager, Autopsy, and Registry Explorer**  
-• Guide students in analyzing **file system artifacts, registry data, and system logs**
-
----
-
-### Security Analyst  
-**Cloud Axiom Inc** | Aug 2022 – Jul 2024
-
-• Monitored security alerts and followed **SOC investigation playbooks**  
-• Analyzed **Windows and Linux logs** for suspicious activity  
-• Investigated network traffic using **Wireshark**  
-• Performed vulnerability assessments using **Nmap**
-
----
-
-### Junior Security Analyst  
-**H&B Computer Education**
-
-• Configured network devices and applied **access control policies**  
-• Assisted in **firewall rule review and network hardening**  
-• Monitored DNS, HTTP, and TCP traffic using **Wireshark**
+Python (Log Parsing & Security Scripting)  
+PowerShell  
+SQL  
+Basic Java
 
 ---
 
@@ -116,60 +111,71 @@ PowerShell • SQL • Basic Java
 
 ## Mini SOC Lab – Splunk SIEM & Windows Security Monitoring
 
-Built a **Splunk-based SIEM lab using VMware** to monitor Windows authentication activity.
+Built a **Splunk-based SIEM lab** in a virtualized environment to monitor Windows authentication activity.
 
 Key Features:
+
 • Ingested Windows Security Logs into Splunk  
-• Detected failed login attempts (**Event ID 4625**)  
-• Created **SPL detection queries and dashboards**  
-• Simulated authentication failures to validate monitoring
+• Detected failed login attempts using **Event ID 4625**  
+• Created SPL detection queries and dashboards  
+• Simulated authentication failures to validate monitoring  
+• Practiced SOC-style alert analysis and log correlation
 
 ---
 
 ## Cybersecurity Forensic Analysis – Capstone Project
 
-Investigated a simulated breach in a Windows environment.
+Investigated a simulated security breach within a Windows environment.
 
 Tools Used:
-• FTK Imager  
-• Autopsy  
-• Registry Explorer  
-• Wireshark  
-• Event Viewer
+
+FTK Imager  
+Autopsy  
+Registry Explorer  
+Wireshark  
+Event Viewer
 
 Activities:
-• Collected forensic images  
-• Investigated system artifacts and logs  
-• Identified attacker activity and malware execution  
-• Verified evidence integrity using **MD5/SHA1**
+
+• Collected forensic disk images  
+• Analyzed system artifacts and registry data  
+• Investigated malware execution and attacker activity  
+• Verified evidence integrity using **MD5/SHA1 hashing**  
+• Documented findings and mitigation strategies
 
 ---
 
 ## Malware Analysis & Reverse Engineering Lab
 
-Performed **static and dynamic analysis of malware samples**.
+Performed static and dynamic malware analysis in a controlled environment.
 
 Tools Used:
-• IDA Pro  
-• Ghidra  
-• OllyDbg  
-• Process Monitor  
-• Wireshark
+
+IDA Pro  
+Ghidra  
+OllyDbg  
+Process Monitor  
+Wireshark
 
 Activities:
-• Investigated process creation and persistence mechanisms  
-• Analyzed command and control communication  
-• Studied keylogging and data exfiltration behavior
+
+• Investigated process creation and persistence techniques  
+• Analyzed malware behavior and network communications  
+• Examined command-and-control traffic patterns  
+• Studied keylogging and data exfiltration techniques
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nisargpatelx&show_icons=true)
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: npate195@charlotte.edu  
-🔗 LinkedIn: https://linkedin.com/in/nisargpate1
+LinkedIn  
+https://linkedin.com/in/nisargpate1
+
+Email  
+npate195@charlotte.edu
