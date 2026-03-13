@@ -20,7 +20,7 @@ GPA: 4.00 | Expected Graduation: May 2026
 
 ### Cisco Certified Network Associate (CCNA)
 
-![CCNA Certificate](certificates/ccna.png)
+![CCNA Certificate](certificates/Cisco Certified Network Associate certificate.pdf)
 
 ---
 
