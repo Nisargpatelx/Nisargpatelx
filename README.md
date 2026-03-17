@@ -36,6 +36,23 @@ Credential ID: COMP001022992755
 [View Certificate](certificates/CompTIA%20Security+%20ce%20certificate.pdf)
 
 ---
+## 🚀 Projects
+
+### 🔐 Kali Linux Vulnerability Scanning Lab
+- Performed vulnerability assessment using **Kali Linux** and **Metasploitable 2**
+- Identified open ports, services, and vulnerabilities using **Nmap**
+- Simulated real-world penetration testing environment in **VMware**
+- 📂 [View Project](https://github.com/Nisargpatelx/kali-vulnerability-scanning-lab)
+
+---
+
+### 🛡️ Splunk SIEM Brute Force Detection Lab
+- Built a **SIEM lab using Splunk** on Ubuntu and Windows
+- Configured log ingestion and monitoring for security events
+- Detected **brute-force login attacks** using custom queries
+- 📂 [View Project](https://github.com/Nisargpatelx/splunk-siem-brute-force-detection-lab)
+
+---
 
 # 🛠 Technical Skills
 
