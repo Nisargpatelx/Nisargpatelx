@@ -47,8 +47,12 @@ I am a cybersecurity professional with hands-on experience in SIEM monitoring, t
 ---
 
 ## 📜 Certifications
+
 - CCNA (Cisco)  
+  👉 https://github.com/Nisargpatelx/Nisargpatelx/blob/main/certificates/Cisco%20Certified%20Network%20Associate%20certificate.pdf  
+
 - CompTIA Security+  
+  👉 https://github.com/Nisargpatelx/Nisargpatelx/blob/main/certificates/CompTIA%20Security%2B%20ce%20certificate.pdf  
 
 ---
 
