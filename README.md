@@ -1,206 +1,58 @@
-# Hi, I'm Nisarg Patel 👋
+# 👋 Hi, I'm Nisarg Patel
 
-🔐 Cybersecurity Graduate Student | SOC | SIEM | Threat Detection
-
-I am currently pursuing a **Master of Science in Cybersecurity at the University of North Carolina at Charlotte** with a **GPA of 4.00 (Expected Graduation: May 2026)**.
-
-My primary interests include **Security Operations, SIEM monitoring, threat detection, incident investigation, and digital forensics**. I actively build hands-on cybersecurity labs to strengthen my skills in **log analysis, attack detection, and security monitoring**.
+🎓 MS in Cybersecurity @ UNC Charlotte (GPA: 4.0)  
+🛡️ Security Analyst | SIEM | Threat Detection | SOC Operations  
+📍 Open to Security Analyst / SOC Analyst Roles  
 
 ---
 
-# 🎓 Education
-
-**University of North Carolina at Charlotte**  
-Master of Science in Cybersecurity  
-GPA: 4.00  
-Expected Graduation: May 2026
+## 🚀 About Me
+I am a cybersecurity professional with hands-on experience in SIEM monitoring, threat detection, and incident response. I specialize in analyzing logs, detecting attacks, and building real-world security labs.
 
 ---
 
-# 📜 Certifications
+## 🧰 Skills
 
-### Cisco Certified Network Associate (CCNA)
-
-Issued: February 2026  
-Credential ID: CSCO15102597  
-
-[View Certificate](certificates/Cisco%20Certified%20Network%20Associate%20certificate.pdf)
-
-
-
-### CompTIA Security+
-
-Issued: February 2026  
-Credential ID: COMP001022992755  
-
-[View Certificate](certificates/CompTIA%20Security+%20ce%20certificate.pdf)
-
----
-## 🚀 Projects
-
-## 🔐 Wazuh SIEM Brute Force Detection Lab
-
-- Built a SIEM lab using Wazuh with a Windows 11 endpoint  
-- Simulated brute-force login attempts to generate failed authentication events  
-- Detected and analyzed Event ID 4625 logs using Wazuh dashboard  
-- Mapped security alerts to MITRE ATT&CK techniques  
-- 📁 [View Project](https://github.com/Nisargpatelx/wazuh-brute-force-detection-lab)
-
-### 🔐 Kali Linux Vulnerability Scanning Lab
-- Performed vulnerability assessment using **Kali Linux** and **Metasploitable 2**
-- Identified open ports, services, and vulnerabilities using **Nmap**
-- Simulated real-world penetration testing environment in **VMware**
-- 📂 [View Project](https://github.com/Nisargpatelx/kali-vulnerability-scanning-lab)
-
-
-
-### 🛡️ Splunk SIEM Brute Force Detection Lab
-- Built a **SIEM lab using Splunk** on Ubuntu and Windows
-- Configured log ingestion and monitoring for security events
-- Detected **brute-force login attacks** using custom queries
-- 📂 [View Project](https://github.com/Nisargpatelx/splunk-siem-brute-force-detection-lab)
+- **SIEM & SOC:** Splunk, Wazuh, Alert Triage, Incident Response  
+- **Log Analysis:** Windows Event Logs, Sysmon, Linux Logs  
+- **Network Security:** Wireshark, TCP/IP, DNS, HTTP/S  
+- **Tools:** Splunk, Wazuh, Nmap, FTK Imager, Autopsy  
+- **Cloud:** AWS (EC2, S3, IAM)  
+- **Programming:** Python, PowerShell  
 
 ---
 
-# 🛠 Technical Skills
+## 🔥 Featured Projects
 
-## Security Operations & Detection
-SIEM Monitoring (Splunk)  
-Alert Triage  
-Incident Response  
-Threat Detection  
-Detection Rule Tuning  
-MITRE ATT&CK Mapping  
-IOC Analysis  
-SOC Playbooks
-
-
-
-## Log & Endpoint Analysis
-Windows Event Logs  
-Event ID 4625 Authentication Analysis  
-Sysmon Monitoring  
-Linux Authentication Logs  
-PowerShell Activity Monitoring
-
-
-
-## Network Security & Traffic Analysis
-TCP/IP  
-DNS  
-HTTP/S  
-Packet Analysis (Wireshark)  
-Firewall Log Analysis  
-Network Hardening  
-Access Control Lists (ACL)
-
-
-
-## Vulnerability Management
-Nmap Scanning  
-Vulnerability Assessment  
-Risk Prioritization  
-Remediation Tracking
-
-
-
-## Security & Forensics Tools
-Splunk Enterprise  
-Wireshark  
-Nmap  
-FTK Imager  
-Autopsy  
-Registry Explorer  
-OpenSSL  
-Windows Event Viewer
-
-
-
-## Cloud & Systems Security
-AWS (EC2, S3, IAM Fundamentals)  
-Linux (Ubuntu)  
-Windows Administration  
-VMware Virtualization
-
-
-
-## Programming & Automation
-Python (Log Parsing & Security Scripting)  
-PowerShell  
-SQL  
-Basic Java
+### 🔹 Wazuh SIEM Attack Detection Lab
+- Simulated brute-force attacks using Kali Linux  
+- Detected authentication failures in Wazuh dashboard  
+- Analyzed logs and correlated events  
+👉 https://github.com/Nisargpatelx/wazuh-brute-force-detection-lab  
 
 ---
 
-# 🔬 Cybersecurity Projects
-
-## Mini SOC Lab – Splunk SIEM & Windows Security Monitoring
-
-Built a **Splunk-based SIEM lab** in a virtualized environment to monitor Windows authentication activity.
-
-Key Features:
-
-• Ingested Windows Security Logs into Splunk  
-• Detected failed login attempts using **Event ID 4625**  
-• Created SPL detection queries and dashboards  
-• Simulated authentication failures to validate monitoring  
-• Practiced SOC-style alert analysis and log correlation
-
-
-
-## Cybersecurity Forensic Analysis – Capstone Project
-
-Investigated a simulated security breach within a Windows environment.
-
-Tools Used:
-
-FTK Imager  
-Autopsy  
-Registry Explorer  
-Wireshark  
-Event Viewer
-
-Activities:
-
-• Collected forensic disk images  
-• Analyzed system artifacts and registry data  
-• Investigated malware execution and attacker activity  
-• Verified evidence integrity using **MD5/SHA1 hashing**  
-• Documented findings and mitigation strategies
-
-
-
-## Malware Analysis & Reverse Engineering Lab
-
-Performed static and dynamic malware analysis in a controlled environment.
-
-Tools Used:
-
-IDA Pro  
-Ghidra  
-OllyDbg  
-Process Monitor  
-Wireshark
-
-Activities:
-
-• Investigated process creation and persistence techniques  
-• Analyzed malware behavior and network communications  
-• Examined command-and-control traffic patterns  
-• Studied keylogging and data exfiltration techniques
+### 🔹 Splunk SIEM Brute Force Detection Lab
+- Built SIEM lab with Windows log ingestion  
+- Detected Event ID 4625 brute-force attacks  
+- Created dashboards for attack visualization  
+👉 https://github.com/Nisargpatelx/splunk-siem-brute-force-detection-lab  
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nisargpatelx&show_icons=true)
+### 🔹 Kali Linux Vulnerability Scanning Lab
+- Performed Nmap scanning on Metasploitable2  
+- Identified vulnerabilities and open ports  
+👉 https://github.com/Nisargpatelx/kali-vulnerability-scanning-lab  
 
 ---
 
-# 📫 Connect With Me
+## 📜 Certifications
+- CCNA (Cisco)  
+- CompTIA Security+  
 
-LinkedIn  
-https://linkedin.com/in/nisargpate1
+---
 
-Email  
-npate195@charlotte.edu
+## 📫 Contact Me
+📧 npate195@charlotte.edu  
+🔗 LinkedIn: https://linkedin.com/in/nisargpate1  
