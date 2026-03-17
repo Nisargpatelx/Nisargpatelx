@@ -2,7 +2,6 @@
 
 🎓 MS in Cybersecurity @ UNC Charlotte (GPA: 4.0)  
 🛡️ Security Analyst | SIEM | Threat Detection | SOC Operations  
-📍 Open to Security Analyst / SOC Analyst Roles  
 
 ---
 
