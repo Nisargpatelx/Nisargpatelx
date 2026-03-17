@@ -44,8 +44,7 @@ Credential ID: COMP001022992755
 - Simulated brute-force login attempts to generate failed authentication events  
 - Detected and analyzed Event ID 4625 logs using Wazuh dashboard  
 - Mapped security alerts to MITRE ATT&CK techniques  
-
-📁 [View Project](https://github.com/Nisargpatelx/wazuh-brute-force-detection-lab)
+- 📁 [View Project](https://github.com/Nisargpatelx/wazuh-brute-force-detection-lab)
 
 ### 🔐 Kali Linux Vulnerability Scanning Lab
 - Performed vulnerability assessment using **Kali Linux** and **Metasploitable 2**
