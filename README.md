@@ -38,6 +38,15 @@ Credential ID: COMP001022992755
 ---
 ## 🚀 Projects
 
+## 🔐 Wazuh Brute Force Detection Lab
+
+A hands-on cybersecurity project demonstrating brute-force attack detection using **Wazuh SIEM** and **Windows Event Logs**.
+- Simulated brute-force login attempts on Windows 11  
+- Detected failed authentication events (Event ID 4625)  
+- Analyzed logs using Wazuh SIEM dashboard  
+- Mapped alerts to MITRE ATT&CK techniques  
+
+
 ### 🔐 Kali Linux Vulnerability Scanning Lab
 - Performed vulnerability assessment using **Kali Linux** and **Metasploitable 2**
 - Identified open ports, services, and vulnerabilities using **Nmap**
